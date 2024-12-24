@@ -131,23 +131,23 @@ skills:
     items:
       - name: Hiking
         description: ""
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Cats
         description: ""
-        percent: 100
+        percent: 80
         icon: cat
       - name: Photography
         description: ""
-        percent: 80
+        percent: 60
         icon: camera
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 25
+  - name: Indonesia
+    percent: 95
+  - name: Arab
     percent: 25
 
 # Awards.
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Saya Annisa Nur Cahyani, lahir pada 25 Desember 2003 di Kendal dan berdomisili di sana. Saya mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah dan lulusan SMK Teknik Komputer dan Jaringan di Syubbanul Wathon. Saya memiliki minat besar di bidang Teknologi Informasi dan We
