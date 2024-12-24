@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Annisa
+title: Portofolio
 
 # Name pronunciation (optional)
 name_pronunciation: Annisa Nur Cahyani
@@ -25,22 +25,23 @@ role: Mahasiswa
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Dicoding
-    url: https://dicoding.com/
+    url: https://www.dicoding.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - profiles:
   - icon: at-symbol
-    url: "mailto:your-email@example.com"
+    url: "annisacahyani149@gmail.com"
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/annisanch_?s=21
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/annisanch_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/annisanchhh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/annisa-cahyani-1158a1262/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
