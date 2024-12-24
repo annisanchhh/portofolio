@@ -53,8 +53,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Rekayasa Perangkat Lunak
+    institution: Itesa Muhammadiyah Semarang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,8 +62,8 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Teknik Komputer dan Jaringan
+    institution: SMK Syubbanul Wathon Tegalrejo Magelang
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
