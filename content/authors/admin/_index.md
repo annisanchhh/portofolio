@@ -61,15 +61,15 @@ education:
       sampai saat ini saya masih menjadi mahasiswa di itesa
 
       Courses included:
-      - Algoritma dan struktur data, menggunakan bahasa pemograman c++ & c
+      - Algoritma dan struktur data, menggunakan bahasa pemograman C++ & C
       - Desain UI/UX, menggunakan tool figma
       - Perancangan Basis Data, menggunakan MySQL woorkbench
   - area: Teknik Komputer dan Jaringan
     institution: SMK Syubbanul Wathon Tegalrejo Magelang
-    date_start: 2019-01-01
-    date_end: 2022-12-31
+    date_start: 2019-06-06
+    date_end: 2022-05-23
     summary: |
-      GPA: 3.8/4.0
+      SMK diploma average : 85,26
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
