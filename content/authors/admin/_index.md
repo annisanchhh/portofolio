@@ -60,6 +60,10 @@ education:
     summary: |
       sampai saat ini saya masih menjadi mahasiswa di itesa
 
+      Courses included:
+      - Algoritma dan struktur data, menggunakan bahasa pemograman c++ & c
+      - Desain UI/UX, menggunakan tool figma
+      - Perancangan Basis Data, menggunakan MySQL woorkbench
   - area: Teknik Komputer dan Jaringan
     institution: SMK Syubbanul Wathon Tegalrejo Magelang
     date_start: 2019-01-01
