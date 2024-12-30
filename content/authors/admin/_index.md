@@ -55,17 +55,15 @@ interests:
 education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
-    date_start: 2016-01-01
+    date_start: 2023-10-02
     date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      sampai saat ini saya masih menjadi mahasiswa di itesa
+
   - area: Teknik Komputer dan Jaringan
     institution: SMK Syubbanul Wathon Tegalrejo Magelang
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-01-01
+    date_end: 2022-12-31
     summary: |
       GPA: 3.8/4.0
 
