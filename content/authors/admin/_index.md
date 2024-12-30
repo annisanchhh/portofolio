@@ -79,8 +79,8 @@ education:
       - Sistem Operasi , Penggunaan dan konfigurasi sistem operasi Linux, yang sering digunakan dalam jaringan dan server.
   - area: ""
     institution: SMP Syubbanul Wathon Tegalrejo
-    date_start: 2016-05-01
-    date_end: 2019-06-31
+    date_start: 2016-06-01
+    date_end: 2019-05-02
     summary: |
       Averange : 84.00
 
@@ -97,7 +97,7 @@ education:
       - Bahasa Arab
       -
 work:
-  - position: Admin Personalia
+  - position: Admin Purcashing
     company_name: GenCoin
     company_url: ""
     company_logo: ""
