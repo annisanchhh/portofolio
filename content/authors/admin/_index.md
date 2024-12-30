@@ -76,7 +76,7 @@ education:
       - Teknologi Jaringan Berbasis Luas ,  merujuk pada jenis-jenis teknologi jaringan yang digunakan untuk menghubungkan perangkat atau sistem yang berada di lokasi yang sangat jauh, baik secara geografis maupun dalam hal kapasitas jaringan.
       - Administrasi Sistem Jaringan ,  proses pengelolaan, pemeliharaan, dan pengawasan infrastruktur jaringan komputer dalam suatu organisasi.
       - Pemrograman Web, proses pembuatan dan pengembangan situs web atau aplikasi berbasis web yang dapat diakses melalui browser.
-  - area: -
+  - area: ""
     institution: SMP Syubbanul Wathon Tegalrejo
     date_start: 2016-01-01
     date_end: 2020-12-31
