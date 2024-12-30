@@ -95,14 +95,14 @@ education:
       - Seni Budaya
       - Prakarya dan Kewirausahaan
       - Bahasa Arab
-      -
+
 work:
   - position: Admin Purcashing
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    company_name: PT.Mitra Saudara Indosengon
+    company_url: "https://id1885651-mitra-saudara-indosengon-pt.contact.page/"
+    company_logo: "https://cdn.triloker.com/d:300/company/logo/20211109/167db8ae476f14622ecb0e9c5db0236178a9cd5c1636422603.jpg"
+    date_start: 2023-01-01
+    date_end: 2023-05-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
