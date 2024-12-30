@@ -113,13 +113,13 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ""
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
+      - name: Phyton
         description: ""
-        percent: 100
+        percent: 20
         icon: chart-bar
       - name: SQL
         description: ""
