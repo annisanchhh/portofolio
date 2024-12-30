@@ -105,20 +105,24 @@ work:
     date_end: 2023-05-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Membantu proses pengadaan barang atau jasa sesuai kebutuhan operasional perusahaan.
+      - Mengelola dan membuat Purchase Order (PO) berdasarkan permintaan departemen lain.
+      - Melakukan pengecekan terhadap harga dan kualitas barang dari berbagai vendor.
+  - position: Admin Personalia
+    company_name: PT. Bakti Putra Nusantara
+    company_url: "https://id4709356-pt-bakti-putra-nusantara.contact.page/#google_vignette"
+    company_logo: "https://cdn.triloker.com/d:300/company/logo/20211208/506e2ed4763be6401ff4eb454d13c92f5a349e861638932026.jpg"
+    date_start: 2023-06-01
+    date_end: 2023-10-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Rekrutmen dan Seleksi Karyawan
+      - Administrasi Karyawan
+      - Penggajian dan Tunjangan
+      - Manajemen Kehadiran dan Cuti
+      - Pelatihan dan Pengembangan Karyawan
+      - Hubungan Industrial
+      - Kesejahteraan dan Lingkungan Kerja
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
