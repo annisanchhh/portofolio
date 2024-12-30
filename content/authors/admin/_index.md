@@ -97,7 +97,7 @@ education:
       - Bahasa Arab
       -
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Admin Personalia
     company_name: GenCoin
     company_url: ""
     company_logo: ""
