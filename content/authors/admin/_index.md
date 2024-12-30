@@ -72,20 +72,22 @@ education:
       SMK diploma average : 85,26
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      - Administrasi Infrastruktur Jaringan , kegiatan yang mencakup pengelolaan, pemeliharaan, dan pengawasan seluruh komponen jaringan komputer dalam sebuah organisasi atau perusahaan.
+      - Teknologi Jaringan Berbasis Luas ,  merujuk pada jenis-jenis teknologi jaringan yang digunakan untuk menghubungkan perangkat atau sistem yang berada di lokasi yang sangat jauh, baik secara geografis maupun dalam hal kapasitas jaringan.
+      - Administrasi Sistem Jaringan ,  proses pengelolaan, pemeliharaan, dan pengawasan infrastruktur jaringan komputer dalam suatu organisasi.
+      - Pemrograman Web, proses pembuatan dan pengembangan situs web atau aplikasi berbasis web yang dapat diakses melalui browser.
+  - area: -
+    institution: SMP Syubbanul Wathon Tegalrejo
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
 
       Courses included:
-      - Administrasi Infrastruktur Jaringan ,kegiatan yang mencakup pengelolaan, pemeliharaan, dan pengawasan seluruh komponen jaringan komputer dalam sebuah organisasi atau perusahaan.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Administrasi Infrastruktur Jaringan , kegiatan yang mencakup pengelolaan, pemeliharaan, dan pengawasan seluruh komponen jaringan komputer dalam sebuah organisasi atau perusahaan.
+      - Teknologi Jaringan Berbasis Luas ,  merujuk pada jenis-jenis teknologi jaringan yang digunakan untuk menghubungkan perangkat atau sistem yang berada di lokasi yang sangat jauh, baik secara geografis maupun dalam hal kapasitas jaringan.
+      - Administrasi Sistem Jaringan ,  proses pengelolaan, pemeliharaan, dan pengawasan infrastruktur jaringan komputer dalam suatu organisasi.
+      - Pemrograman Web, proses pembuatan dan pengembangan situs web atau aplikasi berbasis web yang dapat diakses melalui browser.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
