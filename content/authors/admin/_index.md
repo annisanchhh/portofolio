@@ -76,18 +76,26 @@ education:
       - Teknologi Jaringan Berbasis Luas ,  merujuk pada jenis-jenis teknologi jaringan yang digunakan untuk menghubungkan perangkat atau sistem yang berada di lokasi yang sangat jauh, baik secara geografis maupun dalam hal kapasitas jaringan.
       - Administrasi Sistem Jaringan ,  proses pengelolaan, pemeliharaan, dan pengawasan infrastruktur jaringan komputer dalam suatu organisasi.
       - Pemrograman Web, proses pembuatan dan pengembangan situs web atau aplikasi berbasis web yang dapat diakses melalui browser.
+      - Sistem Operasi , Penggunaan dan konfigurasi sistem operasi Linux, yang sering digunakan dalam jaringan dan server.
   - area: ""
     institution: SMP Syubbanul Wathon Tegalrejo
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-05-01
+    date_end: 2019-06-31
     summary: |
-      GPA: 3.4/4.0
+      Averange : 84.00
 
       Courses included:
-      - Administrasi Infrastruktur Jaringan , kegiatan yang mencakup pengelolaan, pemeliharaan, dan pengawasan seluruh komponen jaringan komputer dalam sebuah organisasi atau perusahaan.
-      - Teknologi Jaringan Berbasis Luas ,  merujuk pada jenis-jenis teknologi jaringan yang digunakan untuk menghubungkan perangkat atau sistem yang berada di lokasi yang sangat jauh, baik secara geografis maupun dalam hal kapasitas jaringan.
-      - Administrasi Sistem Jaringan ,  proses pengelolaan, pemeliharaan, dan pengawasan infrastruktur jaringan komputer dalam suatu organisasi.
-      - Pemrograman Web, proses pembuatan dan pengembangan situs web atau aplikasi berbasis web yang dapat diakses melalui browser.
+      - Matematika
+      - Bahasa Indonesia
+      - Bahasa Inggris
+      - Ilmu Pengetahuan Alam (IPA)
+      - Ilmu Pengetahuan Sosial (IPS)
+      - Pendidikan Pancasila dan  Kewarganegaraan (PPKn)
+      - Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)
+      - Seni Budaya
+      - Prakarya dan Kewirausahaan
+      - Bahasa Arab
+      -
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
