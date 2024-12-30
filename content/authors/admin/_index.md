@@ -83,7 +83,7 @@ education:
       GPA: 3.4/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Administrasi Infrastruktur Jaringan ,kegiatan yang mencakup pengelolaan, pemeliharaan, dan pengawasan seluruh komponen jaringan komputer dalam sebuah organisasi atau perusahaan.
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
