@@ -43,9 +43,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/annisa-cahyani-1158a1262/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
