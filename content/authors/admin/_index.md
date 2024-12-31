@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Portofolio
+title: Annisa Nur Cahyani
 
 # Name pronunciation (optional)
-name_pronunciation: Annisa Nur Cahyani
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Annisa Nur
