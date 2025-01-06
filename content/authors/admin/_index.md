@@ -172,7 +172,9 @@ awards:
     url: "https://mikrotik.com/training/certificates/c230964ceb9bc5422dd"
     date: "2022-04-14"
     awarder: mikrotik
-    icon: mikrotik
+    icon: custom/mikrotik
+    url: https://www.mikrotik.com/
+    label: MikroTik
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
