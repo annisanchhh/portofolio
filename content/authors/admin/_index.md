@@ -168,8 +168,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: MikroTik Certified Network Associate
-    url: https://mikrotik.com/training/certificates/c230964ceb9bc5422dd
+  - title: "MikroTik Certified Network Associate"
+    url: "https://mikrotik.com/training/certificates/c230964ceb9bc5422dd"
     date: "2022-04-14"
     awarder: mikrotik
     icon: mikrotik
