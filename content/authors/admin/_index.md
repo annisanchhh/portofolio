@@ -169,7 +169,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: MikroTik Certified Network Associate
-    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://mikrotik.com/training/certificates/c230964ceb9bc5422dd1
+    url: https://mikrotik.com/training/certificates/c230964ceb9bc5422dd
     date: "2022-04-14"
     awarder: mikrotik
     icon: mikrotik
