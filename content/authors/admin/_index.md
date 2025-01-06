@@ -172,21 +172,16 @@ awards:
     url: "https://mikrotik.com/training/certificates/c230964ceb9bc5422dd"
     date: "2022-04-14"
     awarder: mikrotik
-    icon: custom/mikrotik
-    url: https://www.mikrotik.com/
-    label: MikroTik
+    icon: mikrotik
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
+     Sertifikat ini menunjukkan pemahaman mendalam tentang konsep jaringan dasar, konfigurasi MikroTik RouterOS, dan kemampuan untuk mengelola jaringan kecil hingga menengah dengan perangkat MikroTik.
+  - title: 
+    url:https://www.semuabis.com/rj-com-0856-4376-4042
+    date: "2021-08-16"
+    awarder: rj.com
+    icon: rj.com
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Sertifikat Programmer Junior dari RJ.com menunjukkan keahlian dalam pengembangan aplikasi dan website. merancang dan mengembangkan website yang responsif dan fungsional, serta menerapkan praktik terbaik dalam pengembangan perangkat lunak untuk memenuhi kebutuhan pengguna.
   - title: "Object-Oriented Programming in R"
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
