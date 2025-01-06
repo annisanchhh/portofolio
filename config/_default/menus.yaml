@@ -14,7 +14,7 @@ main:
     url: /#talks
     weight: 12
   - name: Blog
-    url: /#news
+    url: /#blog
     weight: 50
   - name: Pengalaman
     url: experience/
