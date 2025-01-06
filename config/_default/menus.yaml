@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Beranda
     url: /
     weight: 10
   - name: Papers
@@ -13,9 +13,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-  - name: News
-    url: /#news
-    weight: 13
+  - name: Blog
+    url: /#blog
+    weight: 50
   - name: Pengalaman
     url: experience/
     weight: 20
