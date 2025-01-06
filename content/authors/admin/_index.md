@@ -174,12 +174,12 @@ awards:
     awarder: mikrotik
     icon: mikrotik
     summary: |
-     Sertifikat ini menunjukkan pemahaman mendalam tentang konsep jaringan dasar, konfigurasi MikroTik RouterOS, dan kemampuan untuk mengelola jaringan kecil hingga menengah dengan perangkat MikroTik.
+      Sertifikat ini menunjukkan pemahaman mendalam tentang konsep jaringan dasar, konfigurasi MikroTik RouterOS, dan kemampuan untuk mengelola jaringan kecil hingga menengah dengan perangkat MikroTik.
   - title: "Junior Web Programmer"
-    url:https://www.semuabis.com/rj-com-0856-4376-4042
+    url: https://www.semuabis.com/rj-com-0856-4376-4042
     date: "2021-08-16"
-    awarder: edX
-    icon: edx
+    awarder: rj.com
+    icon: rj.com
     summary: |
       Sertifikat Programmer Junior dari RJ.com menunjukkan keahlian dalam pengembangan aplikasi dan website. merancang dan mengembangkan website yang responsif dan fungsional, serta menerapkan praktik terbaik dalam pengembangan perangkat lunak untuk memenuhi kebutuhan pengguna.
   - title: "Object-Oriented Programming in R"
