@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Dataviz_GGplot2
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://annisanchhh.github.io/dataviz_ggplot/
 tags:
   - Hugo
   - Wowchemy
