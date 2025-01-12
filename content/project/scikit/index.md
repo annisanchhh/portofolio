@@ -1,11 +1,7 @@
 ---
 title: colourmatch
 date: 2024-11-24
-external_link:
-  https://drive.google.com/file/d/1_34yH6g2C5VPLypnkXG8NtmujWWtPYtP/view?usp=sharing
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: https://drive.google.com/file/d/1_34yH6g2C5VPLypnkXG8NtmujWWtPYtP/view?usp=sharing
 ---
 
 ColourMatch adalah aplikasi inovatif yang dirancang untuk membantu pengguna mengenali tone kulit mereka dengan mudah.
