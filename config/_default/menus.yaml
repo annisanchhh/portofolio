@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Talks
-    url: /#talks
+    url: event/
     weight: 12
   - name: Blog
     url: /#blog
