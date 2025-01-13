@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Project Kuliah
-      text: project uts dan uas
+      text: Kumpulan project uas dan uts selama kuliah
       filters:
         folders:
           - project

@@ -30,7 +30,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - profiles:
   - icon: at-symbol
     url: "annisacahyani149@gmail.com"
     label: E-mail Me
@@ -45,9 +44,9 @@ profiles:
   - icon: academicons/google-scholar
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Artificial Intelligence & Machine Learning
+  - Data Analysis & Visualization
 
 Pendidikan:
   - area: Rekayasa Perangkat Lunak
