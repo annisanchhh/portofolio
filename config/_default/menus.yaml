@@ -7,9 +7,6 @@ main:
   - name: Beranda
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
   - name: Recent Activities
     url: /#Recent_Activities
     weight: 12
