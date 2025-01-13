@@ -30,27 +30,45 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+  content:
+    title: "📚 My Portfolio"
+    subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
+    text: |-
+      Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
 
-   - block: markdown
-    content:
-      title: "📚 My Portfolio"
-      subtitle: "Mahasiswa Rekayasa Perangkat L"
-      text: |-
-        Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
-
-        Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
-    design:
-      columns: "1"
-
+      Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
+  design:
+    columns: "1"
 
   - block: collection
-    id: activities
+    id: papers
     content:
-      title: "Recent Activities"
-      text: "Ini adalah daftar kegiatan terbaru yang telah saya ikuti, seperti organisasi, workshop, dan kompetisi."
+      title: Featured Publications
       filters:
         folders:
-        - activity
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
     design:
       view: article-grid
       columns: 1
