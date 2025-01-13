@@ -39,18 +39,21 @@ sections:
   content:
 
 content:
+  content:
   title: "📚 My Portfolio"
-  subtitle: ""
+  subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
   text: |-
-    Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah yang memiliki minat di bidang pengembangan perangkat lunak, web development, dan teknologi informasi.
+    Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
 
-    Saya senang mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek-proyek yang berdampak positif. Jika Anda tertarik untuk bekerja sama, jangan ragu untuk menghubungi saya! 😊
+    Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
   design:
     columns: "1"
+
 - block: collection
-  id: projects
+  id: featured-projects
   content:
-    title: Featured Projects
+    title: "🎯 Featured Projects"
+    text: "Proyek unggulan yang saya kerjakan dengan fokus pada solusi kreatif dan inovatif."
     filters:
       folders:
         - project
@@ -58,64 +61,62 @@ content:
   design:
     view: article-grid
     columns: 2
+
 - block: collection
+  id: recent-projects
   content:
-    title: Recent Projects
-    text: ""
+    title: "🛠 Recent Projects"
+    text: "Proyek-proyek terbaru yang telah saya selesaikan."
     filters:
       folders:
         - project
-      exclude_featured: false
+      exclude_featured: true
   design:
     view: citation
+    columns: 1
+
 - block: collection
-  id: talks
+  id: activities
   content:
-    title: Recent Activities
+    title: "📅 Recent Activities"
+    text: "Kegiatan terbaru saya, termasuk seminar, lomba, dan kolaborasi."
     filters:
       folders:
         - activity
   design:
     view: article-grid
     columns: 1
+
 - block: collection
   id: blog
   content:
-    title: Blog
-    subtitle: ""
-    text: ""
+    title: "📝 Blog"
+    subtitle: "Pandangan dan wawasan saya tentang teknologi."
+    text: "Baca artikel terbaru saya untuk mengetahui lebih banyak tentang pengalaman, tutorial, dan cerita menarik di dunia teknologi."
     page_type: post
     count: 5
     filters:
-      author: ""
-      category: ""
-      tag: ""
       exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      publication_type: ""
-    offset: 0
-    order: desc
   design:
     view: date-title-summary
-    spacing:
-      padding: [0, 0, 0, 0]
+
 - block: cta-card
-  demo: true
+  demo: false
   content:
-    title: 👉 Bangun Website Portofoliomu Sendiri
+    title: "👉 Hubungi Saya"
     text: |-
-      Situs ini dibuat dengan Hugo Blox Builder - alat pembuat situs open source yang sederhana dan gratis!
-
-      <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-      Buat situs profesional tanpa perlu menulis banyak kode.
+      Apakah Anda tertarik untuk berkolaborasi atau sekadar berdiskusi? Hubungi saya melalui:
+      
+      - 📧 Email: [email@example.com](mailto:email@example.com)
+      - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+      - 🌐 GitHub: [github.com/username](https://github.com/username)
     button:
-      text: Pelajari Lebih Lanjut
-      url: https://hugoblox.com/templates/
+      text: "Hubungi Sekarang"
+      url: "mailto:email@example.com"
   design:
     card:
       css_class: "bg-primary-700"
       css_style: ""
+
 
 ---
