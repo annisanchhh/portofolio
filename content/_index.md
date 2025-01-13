@@ -1,6 +1,5 @@
 ---
 # Leave the homepage title empty to use the site title
-
 title: ""
 date: 2022-10-24
 type: landing
@@ -23,26 +22,26 @@ sections:
       css_class: dark
       background:
         color: black
-      image:
-        # Add your image background to `assets/media/`.
-        filename: stacked-peaks.svg
-        filters:
-          brightness: 1.0
-        size: cover
-        position: center
-        parallax: false
-
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
-      title: "📚 My Portfolio"
-      subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
+      title: "📚 My Research"
+      subtitle: ""
       text: |-
-        Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
+        Please reach out to collaborate 😃
     design:
       columns: "1"
-
   - block: collection
     id: papers
     content:
