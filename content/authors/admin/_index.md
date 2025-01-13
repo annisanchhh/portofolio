@@ -175,8 +175,8 @@ awards:
     summary: |
       Sertifikat ini menunjukkan pemahaman mendalam tentang konsep jaringan dasar, konfigurasi MikroTik RouterOS, dan kemampuan untuk mengelola jaringan kecil hingga menengah dengan perangkat MikroTik.
   - title: "Junior Web Programmer"
-    url: https://drive.google.com/drive/search?q=sertifikat
-    certificate_url: https://drive.google.com/drive/search?q=sertifikat
+    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1XqreHvNA_AJsqM2RX09uHwgy1uKP2vs4&authuser=0&acrobatPromotionSource=GoogleDriveNativeView
+    certificate_url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1XqreHvNA_AJsqM2RX09uHwgy1uKP2vs4&authuser=0&acrobatPromotionSource=GoogleDriveNativeView
     date: "2021-08-16"
     awarder: rj.com
     summary: |
