@@ -138,8 +138,8 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
+    color: "#a3b18a"
+    color_border: "#3a5a40"
     items:
       - name: Hiking
         description: ""
