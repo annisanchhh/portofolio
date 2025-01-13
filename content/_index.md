@@ -33,7 +33,7 @@ sections:
    - block: markdown
     content:
       title: "📚 My Portfolio"
-      subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
+      subtitle: "Mahasiswa Rekayasa Perangkat L"
       text: |-
         Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
 
