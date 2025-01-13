@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - profiles:
-  -  url: "annisacahyani149@gmail.com"
+    url: "annisacahyani149@gmail.com"
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/annisanch_?s=21
