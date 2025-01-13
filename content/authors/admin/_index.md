@@ -48,7 +48,7 @@ interests:
   - Artificial Intelligence & Machine Learning
   - Data Analysis & Visualization
 
-Pendidikan:
+education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-10-02
@@ -92,7 +92,7 @@ Pendidikan:
       - Prakarya dan Kewirausahaan
       - Bahasa Arab
 
-Kerja:
+work:
   - position: Admin Purcashing
     company_name: PT.Mitra Saudara Indosengon
     company_url: "https://id1885651-mitra-saudara-indosengon-pt.contact.page/"
@@ -154,7 +154,7 @@ skills:
         percent: 60
         icon: camera
 
-Bahasa:
+languages:
   - name: English
     percent: 25
   - name: Indonesia
