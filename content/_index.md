@@ -30,16 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-  content:
-    title: "📚 My Portfolio"
-    subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
-    text: |-
-      Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
+   - block: markdown
+    content:
+      title: "📚 My Portfolio"
+      subtitle: "Mahasiswa Rekayasa Perangkat Lunak"
+      text: |-
+        Selamat datang di portofolio saya! Saya seorang mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah. Saya memiliki minat mendalam dalam pengembangan perangkat lunak, web development, dan teknologi informasi.
 
-      Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
-  design:
-    columns: "1"
+        Saya antusias mempelajari teknologi baru, membangun solusi inovatif, dan berkolaborasi dalam proyek berdampak positif. Jangan ragu untuk menghubungi saya untuk diskusi atau peluang kerja sama! 😊
+    design:
+      columns: "1"
+
 
   - block: collection
     id: activities
