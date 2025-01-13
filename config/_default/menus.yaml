@@ -7,7 +7,7 @@ main:
   - name: Beranda
     url: /
     weight: 10
-  - name: Talks
+  - name: Recent Activities
     url: event/
     weight: 12
   - name: Blog

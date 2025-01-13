@@ -168,17 +168,27 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: "MikroTik Certified Network Associate"
-    url: "https://mikrotik.com/training/certificates/c230964ceb9bc5422dd"
+    url: https://mikrotik.com/
+    certificate_url: "https://mikrotik.com/training/certificates/c230964ceb9bc5422dd"
     date: "2022-04-14"
     awarder: mikrotik
     summary: |
       Sertifikat ini menunjukkan pemahaman mendalam tentang konsep jaringan dasar, konfigurasi MikroTik RouterOS, dan kemampuan untuk mengelola jaringan kecil hingga menengah dengan perangkat MikroTik.
   - title: "Junior Web Programmer"
     url: https://drive.google.com/drive/search?q=sertifikat
+    certificate_url: https://drive.google.com/drive/search?q=sertifikat
     date: "2021-08-16"
     awarder: rj.com
     summary: |
       Sertifikat Programmer Junior dari RJ.com menunjukkan keahlian dalam pengembangan aplikasi dan website. merancang dan mengembangkan website yang responsif dan fungsional, serta menerapkan praktik terbaik dalam pengembangan perangkat lunak untuk memenuhi kebutuhan pengguna.
+  - title: "Object-Oriented Programming in R"
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: "2023-01-21"
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## Tentang Saya
