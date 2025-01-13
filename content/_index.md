@@ -16,24 +16,25 @@ sections:
 
 - block: resume-biography-3
   content:
-  # Choose a user profile to display (a folder name within `content/authors/`)
-  username: admin
-  text: ""
-  # Show a call-to-action button under your biography? (optional)
-  button:
-  text: Download CV
-  url: https://drive.google.com/file/d/1Ri2df2VMjTj-9ztWO64kVHH3XQX4b4kp/view?usp=sharing
-  design:
-  css_class: dark
-  background:
-  color: black
-  image: # Add your image background to `assets/media/`.
-  filename: stacked-peaks.svg
-  filters:
-  brightness: 1.0
-  size: cover
-  position: center
-  parallax: false
+     # Choose a user profile to display (a folder name within `content/authors/`)
+    username: admin
+    text: ""
+    # Show a call-to-action button under your biography? (optional)
+    button:
+      text: Download CV
+      url: https://drive.google.com/file/d/1Ri2df2VMjTj-9ztWO64kVHH3XQX4b4kp/view?usp=sharing
+    design:
+      css_class: dark
+      background:
+      color: black
+     image:
+     # Add your image background to `assets/media/`.
+      filename: stacked-peaks.svg
+      filters:
+      brightness: 1.0
+      size: cover
+      position: center
+      parallax: false
 - block: markdown
   content:
   title: "📚 My Portfolio"
@@ -106,10 +107,12 @@ sections:
 
       Buat situs profesional tanpa perlu menulis banyak kode.
 
-  button:
-  text: Pelajari Lebih Lanjut
-  url: https://hugoblox.com/templates/
-  design:
-  card:
-  css_class: "bg-primary-700"
-  css_style: ""
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+---
