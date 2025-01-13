@@ -31,6 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - profiles:
+  - icon: at-symbol
     url: "annisacahyani149@gmail.com"
     label: E-mail Me
   - icon: brands/x
@@ -48,7 +49,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-education:
+Pendidikan:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-10-02
@@ -92,7 +93,7 @@ education:
       - Prakarya dan Kewirausahaan
       - Bahasa Arab
 
-work:
+Kerja:
   - position: Admin Purcashing
     company_name: PT.Mitra Saudara Indosengon
     company_url: "https://id1885651-mitra-saudara-indosengon-pt.contact.page/"
@@ -154,7 +155,7 @@ skills:
         percent: 60
         icon: camera
 
-languages:
+Bahasa:
   - name: English
     percent: 25
   - name: Indonesia
@@ -183,6 +184,6 @@ awards:
       Sertifikat Programmer Junior dari RJ.com menunjukkan keahlian dalam pengembangan aplikasi dan website. merancang dan mengembangkan website yang responsif dan fungsional, serta menerapkan praktik terbaik dalam pengembangan perangkat lunak untuk memenuhi kebutuhan pengguna.
 ---
 
-## About Me
+## Tentang Saya
 
 Saya Annisa Nur Cahyani, lahir pada 25 Desember 2003 di Kendal dan berdomisili di sana. Saya mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah dan lulusan SMK Teknik Komputer dan Jaringan di Syubbanul Wathon. Saya memiliki minat besar di bidang Teknologi Informasi dan Web
