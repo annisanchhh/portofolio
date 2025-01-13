@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-          
+
    - block: markdown
     content:
       title: "📚 My Portfolio"
@@ -46,10 +46,11 @@ sections:
   - block: collection
     id: activities
     content:
-      title: Recent activities
+      title: "Recent Activities"
+      text: "Ini adalah daftar kegiatan terbaru yang telah saya ikuti, seperti organisasi, workshop, dan kompetisi."
       filters:
         folders:
-          - event
+        - activity
     design:
       view: article-grid
       columns: 1
