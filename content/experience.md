@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Kemampuan & Skill
+      title: Kemampuan & hobi
       username: admin
     design:
       show_skill_percentage: false
