@@ -92,7 +92,7 @@ education:
       - Prakarya dan Kewirausahaan
       - Bahasa Arab
 
-Kerja:
+work:
   - position: Admin Purcashing
     company_name: PT.Mitra Saudara Indosengon
     company_url: "https://id1885651-mitra-saudara-indosengon-pt.contact.page/"
