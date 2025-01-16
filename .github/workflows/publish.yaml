@@ -54,9 +54,10 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v3 # You can keep v3 for now as v4 is not available
         with:
-          path: ./public
+          name: artifact-name
+          path: path/to/artifact
 
   # Deploy website to GitHub Pages hosting
   deploy:
