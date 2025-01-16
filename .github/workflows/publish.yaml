@@ -4,11 +4,11 @@ env:
   WC_HUGO_VERSION: "0.136.5"
 
 on:
-  # Trigger the flow every time you push to the `main` branch
+  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this flow manually from the Actions tab on GitHub.
-  flow_dispatch:
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
+  workflow_dispatch:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
