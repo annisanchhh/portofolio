@@ -7,13 +7,13 @@
   </defs>
   <rect width="1920" height="1080" fill="url(#gradient)" />
   
-  <!-- Pola Grid dengan Randomisasi -->
+  <!-- Pola Geometris -->
   <g fill="#ffffff" opacity="0.5">
     <circle cx="100" cy="100" r="10" />
-    <circle cx="300" cy="250" r="15" />
-    <circle cx="500" cy="400" r="20" />
-    <circle cx="700" cy="550" r="25" />
-    <circle cx="900" cy="700" r="30" />
-    <circle cx="1100" cy="850" r="35" />
+    <circle cx="300" cy="200" r="20" />
+    <rect x="500" y="300" width="50" height="50" />
+    <polygon points="700,400 750,450 650,450" />
+    <rect x="900" y="500" width="100" height="100" />
   </g>
 </svg>
+
