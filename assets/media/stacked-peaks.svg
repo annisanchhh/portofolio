@@ -1,25 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
-  <!-- Gradasi Background -->
   <defs>
     <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#86A788" />
-      <stop offset="100%" stop-color="#727D73" />
+      <stop offset="0%" stop-color="#a8d5ba" />
+      <stop offset="100%" stop-color="#f0e0c6" />
     </linearGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#gradient)" />
-
-  <!-- Pola Lingkaran Kecil -->
+  
+  <!-- Pola Lingkaran dengan Animasi -->
   <g fill="#ffffff" opacity="0.5">
-    <circle cx="100" cy="100" r="10" />
-    <circle cx="300" cy="200" r="10" />
-    <circle cx="500" cy="300" r="10" />
-    <circle cx="700" cy="400" r="10" />
-    <circle cx="900" cy="500" r="10" />
-    <circle cx="1100" cy="600" r="10" />
-    <circle cx="1300" cy="700" r="10" />
-    <circle cx="1500" cy="800" r="10" />
-    <circle cx="1700" cy="900" r="10" />
+    <circle cx="100" cy="100" r="10">
+      <animate attributeName="r" from="10" to="30" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="300" cy="300" r="15">
+      <animate attributeName="r" from="15" to="35" dur="3s" repeatCount="indefinite" />
+    </circle>
   </g>
 </svg>
-
-
