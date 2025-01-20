@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-          style: "color: black;"
+          style: "color: #ffff"
   - block: markdown
     content:
       title: "📚 Portofolio Saya"
