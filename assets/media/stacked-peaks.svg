@@ -2,8 +2,8 @@
   <!-- Gradasi Background -->
   <defs>
     <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#a8d5ba" />
-      <stop offset="100%" stop-color="#f0e0c6" />
+      <stop offset="0%" stop-color="#86A788" />
+      <stop offset="100%" stop-color="#727D73" />
     </linearGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#gradient)" />
