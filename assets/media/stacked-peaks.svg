@@ -1,19 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <!-- Gradasi Latar Belakang -->
   <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="greenGradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#a8d5ba" />
       <stop offset="100%" stop-color="#f0e0c6" />
     </linearGradient>
   </defs>
-  <rect width="1920" height="1080" fill="url(#gradient)" />
-  
-  <!-- Pola Geometris -->
+  <rect width="1920" height="1080" fill="url(#greenGradient)" />
+
+  <!-- Pola Lingkaran Kecil -->
   <g fill="#ffffff" opacity="0.5">
+    <!-- Baris 1 -->
     <circle cx="100" cy="100" r="10" />
-    <circle cx="300" cy="200" r="20" />
-    <rect x="500" y="300" width="50" height="50" />
-    <polygon points="700,400 750,450 650,450" />
-    <rect x="900" y="500" width="100" height="100" />
+    <circle cx="300" cy="150" r="10" />
+    <circle cx="500" cy="100" r="10" />
+    <circle cx="700" cy="200" r="10" />
+    <circle cx="900" cy="50" r="10" />
+    <!-- Baris 2 -->
+    <circle cx="200" cy="300" r="10" />
+    <circle cx="400" cy="350" r="10" />
+    <circle cx="600" cy="300" r="10" />
+    <circle cx="800" cy="400" r="10" />
+    <circle cx="1000" cy="250" r="10" />
+    <!-- Baris 3 -->
+    <circle cx="150" cy="500" r="10" />
+    <circle cx="350" cy="550" r="10" />
+    <circle cx="550" cy="500" r="10" />
+    <circle cx="750" cy="600" r="10" />
+    <circle cx="950" cy="450" r="10" />
+    <!-- Baris 4 -->
+    <circle cx="250" cy="700" r="10" />
+    <circle cx="450" cy="750" r="10" />
+    <circle cx="650" cy="700" r="10" />
+    <circle cx="850" cy="800" r="10" />
+    <circle cx="1050" cy="650" r="10" />
   </g>
 </svg>
 
