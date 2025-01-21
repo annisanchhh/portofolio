@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-          style: "color: #ffff"
+          style: white
   - block: markdown
     content:
       title: "📚 Portofolio Saya"
