@@ -1,6 +1,6 @@
 ---
 title: DOUBLE LINKED LIST
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: Mata Kuliah Algoritma dan Struktur Dasar
 date: 2023-10-27
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -9,11 +9,6 @@ image:
 
 authors:
   - admin
-
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Double Linked List adalah jenis linked dimana kita bisa melintasinya secara dua arah . Tidak seperti singly linked list yang berisi satu pointer di double linked list berisi satu pointer tambahan yang di sebut previous pointer yang menunjuk ke linked sebelumnya jadi ada 3 bagian yaitu prev , *pointer , dan *next pointer. berikut gambar double linked list :
@@ -32,4 +27,4 @@ Penyisipan di awal: Untuk menyisipkan linked baru di awal .Daftar : Buat node ba
 
 {{< toc mobile_only=true is_open=true >}}
 
-_Referensi tambahan:_ [Blogspot](https://contohblog.blogspot.com)
+_Referensi tambahan:_ [Blogspot](https://annisanch.blogspot.com)
