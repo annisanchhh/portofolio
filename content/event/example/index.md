@@ -1,30 +1,75 @@
 ---
-title: DOUBLE LINKED LIST
-summary: Mata Kuliah Algoritma dan Struktur Dasar
-date: 2024-06-06
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+title: Example Talk
+
+event: Hugo Blox Builder Conference
+event_url: https://example.org
+
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: "94305"
+  country: United States
+
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with #.
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2017-01-01T00:00:00Z"
 
 authors:
   - admin
+
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: "Image credit: [*Unsplash*](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+url_code: "https://github.com"
+url_pdf: ""
+url_slides: "https://slideshare.net"
+url_video: "https://youtube.com"
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. slides = "example-slides" references content/slides/example-slides.md.
+#   Otherwise, set slides = "".
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. projects = ["internal-project"] references content/project/deep-learning/index.md.
+#   Otherwise, set projects = [].
+projects:
+  - example
 ---
 
-Double Linked List adalah jenis linked dimana kita bisa melintasinya secara dua arah . Tidak seperti singly linked list yang berisi satu pointer di double linked list berisi satu pointer tambahan yang di sebut previous pointer yang menunjuk ke linked sebelumnya jadi ada 3 bagian yaitu prev , *pointer , dan *next pointer. berikut gambar double linked list :
+{{% callout note %}}
+Click on the _Slides_ button above to view the built-in slides feature.
+{{% /callout %}}
 
-Operasi Double linked list:
+Slides can be added in a few ways:
 
-1. Penyisipan: Menambahkan elemen di awal, akhir, atau setelah node tertentu dalam daftar.
+- _Create_ slides using Hugo Blox Builder's [Slides](https://docs.hugoblox.com/reference/content-types/) feature and link using slides parameter in the front matter of the talk file
+- _Upload_ an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file
+- _Embed_ your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-2. Penghapusan: Menghapus elemen dari daftar, baik dari awal, akhir, atau berdasarkan kunci yang diberikan.
-
-3. Traversal: Menampilkan elemen daftar dalam arah maju dan mundur.
-
-Penyisipan Double linked list :
-
-Penyisipan di awal: Untuk menyisipkan linked baru di awal .Daftar : Buat node baru dengan data yang diberikan. Arahkan penunjuk berikutnya ke simpul pertama saat ini. Perbarui penunjuk sebelumnya dari simpul pertama saat ini untuk menunjuk ke simpul baru. Perbarui penunjuk kepala untuk menunjuk ke simpul baru. Operasi ini memastikan bahwa node baru menjadi node pertama dalam daftar sambil mempertahankan hubungan yang tepat dengan node yang berdekatan.
-
-{{< toc mobile_only=true is_open=true >}}
-
-_Referensi tambahan:_ [Blogspot](https://annisanch.blogspot.com)
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
