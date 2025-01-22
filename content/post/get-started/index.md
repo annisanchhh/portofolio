@@ -31,3 +31,5 @@ Penyisipan Double linked list :
 Penyisipan di awal: Untuk menyisipkan linked baru di awal .Daftar : Buat node baru dengan data yang diberikan. Arahkan penunjuk berikutnya ke simpul pertama saat ini. Perbarui penunjuk sebelumnya dari simpul pertama saat ini untuk menunjuk ke simpul baru. Perbarui penunjuk kepala untuk menunjuk ke simpul baru. Operasi ini memastikan bahwa node baru menjadi node pertama dalam daftar sambil mempertahankan hubungan yang tepat dengan node yang berdekatan.
 
 {{< toc mobile_only=true is_open=true >}}
+
+_Referensi tambahan:_ [Blogspot](https://contohblog.blogspot.com)
