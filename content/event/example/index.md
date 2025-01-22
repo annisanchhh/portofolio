@@ -6,7 +6,7 @@ event_url: https://example.org
 
 location: SMK Syubbanul Wathon Magelang
 address:
-  street: Jl. Kyai Abdan Tepo No.03, Gemuh, Dlimas, Kec. Tegalrejo, Kabupaten ,
+  street: Jl. Kyai Abdan Tepo No.03, Gemuh, Dlimas, Tegalrejo,
   city: Magelang
   region: Jawa Tengah
   postcode: "56192"
@@ -40,9 +40,9 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: "https://github.com"
+url_code: ""
 url_pdf: ""
-url_slides: "https://slideshare.net"
+url_slides: ""
 url_video: "https://youtu.be/qqyQMK5qMB4?si=EX0ZXM78j56VYhH8"
 
 # Markdown Slides (optional).
