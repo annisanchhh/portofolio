@@ -1,7 +1,7 @@
 ---
 title: DOUBLE LINKED LIST
 summary: Mata Kuliah Algoritma dan Struktur Dasar
-date: 2023-10-27
+date: 2024-06-06
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
