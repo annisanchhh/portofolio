@@ -1,7 +1,7 @@
 ---
 title: ORASI (Obrolan Generasi Masa Kini)
 
-event: Hugo Blox Builder Conference
+event: TALKSHOW
 event_url: https://example.org
 
 location: SMK Syubbanul Wathon Magelang
