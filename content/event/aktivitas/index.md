@@ -1,19 +1,20 @@
 ---
-title: Example Talk
+title: MAPALASTA
 
-event: Hugo Blox Builder Conference
+event: Mahasiswa Pecinta Alam Itesa Muhammadiyah Semarang 
 event_url: https://aktivitas.org
 
-location: Hugo Blox Builder HQ
+location: itesa muhammadiyah
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street:  Jl. Prof. Dr. Hamka No.KM.1, Tambakaji, Ngaliyan
+  city: Semarang
+  region: Jawa Tengah 
   postcode: "94305"
-  country: United States
+  country: Indonesia
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: mahasiswa yang mempunyai sikap peduli
+kepada alam dan berwawasan lingkungan sosial, maka mahasiswa Pencinta Alam
+ITESA (MAPALASTA) ITESA-M Semarang
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with #.
@@ -22,7 +23,7 @@ date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-05-07T00:00:00Z"
+publishDate: "2024-06-16T00:00:00Z"
 
 authors:
   - admin
@@ -41,10 +42,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: "https://github.com"
-url_pdf: ""
-url_slides: "https://slideshare.net"
-url_video: "https://youtube.com"
+url_video: "https://photos.app.goo.gl/hcnKcLEJZDK7euK76"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
