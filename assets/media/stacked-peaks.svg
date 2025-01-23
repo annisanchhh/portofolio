@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
   <defs>
     <linearGradient id="customGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DFF2EB" />
-      <stop offset="33%" stop-color="#B9E5E8" />
-      <stop offset="66%" stop-color="#7AB2D3" />
-      <stop offset="100%" stop-color="#4A628A" />
+      <stop offset="0%" stop-color="#B3E2A7" />
+      <stop offset="33%" stop-color="#80B9AD" />
+      <stop offset="66%" stop-color="#6295A2" />
+      <stop offset="100%" stop-color="#538392" />
     </linearGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#customGradient)" />
