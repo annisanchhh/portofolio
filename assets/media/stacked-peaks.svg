@@ -1,15 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
   <defs>
-    <linearGradient id="softGradientDark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1e2a1e" />
-      <stop offset="50%" stop-color="#2e3d2e" />
-      <stop offset="100%" stop-color="#3c4e3c" />
+    <linearGradient id="customGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#DFF2EB" />
+      <stop offset="33%" stop-color="#B9E5E8" />
+      <stop offset="66%" stop-color="#7AB2D3" />
+      <stop offset="100%" stop-color="#4A628A" />
     </linearGradient>
   </defs>
-  <rect width="1920" height="1080" fill="url(#softGradientDark)" />
-
-  <!-- Pola Garis Abstrak -->
-  <path d="M0 200 Q400 300 800 200 T1920 200" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.5" />
-  <path d="M0 400 Q400 500 800 400 T1920 400" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.3" />
-  <path d="M0 600 Q400 700 800 600 T1920 600" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.2" />
+  <rect width="1920" height="1080" fill="url(#customGradient)" />
 </svg>
