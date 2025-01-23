@@ -47,5 +47,5 @@ url_slides: ""
 url_video: "https://photos.app.goo.gl/hcnKcLEJZDK7euK76"
 
 projects:
-  - example
+  - bem
 ---
