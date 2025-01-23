@@ -1,20 +1,19 @@
 ---
 title: MAPALASTA
 
-event: Mahasiswa Pecinta Alam Itesa Muhammadiyah Semarang 
+event: Mahasiswa Pecinta Alam Itesa Muhammadiyah Semarang
 event_url: https://aktivitas.org
 
 location: itesa muhammadiyah
 address:
-  street:  Jl. Prof. Dr. Hamka No.KM.1, Tambakaji, Ngaliyan
+  street: Jl. Prof. Dr. Hamka No.KM.1, Tambakaji, Ngaliyan
   city: Semarang
-  region: Jawa Tengah 
+  region: Jawa Tengah
   postcode: "94305"
   country: Indonesia
 
-summary: mahasiswa yang mempunyai sikap peduli
-kepada alam dan berwawasan lingkungan sosial, maka mahasiswa Pencinta Alam
-ITESA (MAPALASTA) ITESA-M Semarang
+summary: mahasiswa yang mempunyai sikap peduli kepada alam dan berwawasan lingkungan sosial, maka mahasiswa Pencinta Alam ITESA (MAPALASTA ITESA-M Semarang
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with #.
