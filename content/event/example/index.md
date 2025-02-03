@@ -12,7 +12,7 @@ address:
   postcode: "56192"
   country: Indonesia
 
-summary: ORASI Membahas tentang kota kendal
+summary: Saya menjadi salah satu narasumber di ORASI yang Membahas tentang kota kendal
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with #.
