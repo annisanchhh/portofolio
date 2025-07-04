@@ -1,19 +1,14 @@
 ---
 title: Regresi Model
 date: 2024-11-24
-external_link: https://github.com/annisanchhh/UTS-Regression_Modeling
+external_link: https://drive.google.com/file/d/1_34yH6g2C5VPLypnkXG8NtmujWWtPYtP/view?usp=sharing
+featured: true
+projects: true
 ---
 
-Regresi Model – Analisis Data Menggunakan Bahasa R
-
-Proyek ini merupakan implementasi tugas Ujian Tengah Semester yang bertujuan untuk membangun model regresi menggunakan bahasa pemrograman R. Analisis dilakukan terhadap dataset untuk mengetahui hubungan antara variabel independen dan variabel dependen melalui pendekatan statistik.
-
-Dalam proyek ini, dilakukan tahapan:
-
-Eksplorasi dan pembersihan data (data cleaning),
-Visualisasi data untuk melihat pola awal,Pembuatan model regresi linear,
-Evaluasi model menggunakan metrik seperti Adjusted R-squared, Residual Standard Error, dan uji signifikansi (p-value),
-Interpretasi hasil model untuk menyimpulkan variabel-variabel yang paling berpengaruh terhadap target yang dianalisis.
-Seluruh proses dilakukan dengan bahasa R dan divisualisasikan menggunakan package seperti ggplot2.
+ColourMatch adalah aplikasi inovatif yang dirancang untuk membantu pengguna mengenali tone kulit mereka dengan mudah.
+Menggunakan analisis warna dari foto atau kamera langsung, aplikasi ini memberikan rekomendasi warna terbaik
+untuk kosmetik, pakaian, dan aksesori yang sesuai dengan tone kulit. Dengan desain intuitif yang dirancang menggunakan Balsamiq,
+ColourMatch menawarkan pengalaman pengguna yang sederhana dan praktis untuk meningkatkan rasa percaya diri melalui pilihan warna yang tepat.
 
 <!--more-->
