@@ -182,4 +182,4 @@ awards:
 
 ## Tentang Saya
 
-Saya Annisa Nur Cahyani, lahir pada 25 Desember 2003 di Kendal dan berdomisili di sana. Saya mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah dan lulusan SMK Teknik Komputer dan Jaringan di Syubbanul Wathon. Saya memiliki minat besar di bidang Teknologi Informasi dan Web
+Saya Annisa Nur Cahyani, lahir pada 25 Desember 2003 di Kendal dan berdomisili di sana. Saya mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah dan lulusan SMK Teknik Komputer dan Jaringan di Syubbanul Wathon. Saya memiliki minat besar di bidang Teknologi Informasi dan Artificial Intelligence
